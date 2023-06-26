@@ -1,0 +1,1 @@
+Connect Discord with Homey, and create Flows to send messages to your channels.
